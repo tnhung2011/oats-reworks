@@ -1,10 +1,10 @@
 # oats-reworks
 The utilities reworks by Oats Jenkins (https://youtube.com/c/OatsJenkins), composed in one repository
 
-# [Alphabet 2](/Alphabet%202/README.md)
+# [Alphabet 2](/oats-reworks/Alphabet%202)
 
-# [Alphabet 3](/Alphabet%203/README.md)
+# [Alphabet 3](/oats-reworks/Alphabet%203)
 
-# [Chess](/Chess%202/README.md)
+# [Chess](/oats-reworks/Chess%202)
 
-# [Clock](/Clock%202/README.md)
+# [Clock](/oats-reworks/Clock%202)
